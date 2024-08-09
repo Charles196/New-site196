@@ -18,7 +18,7 @@ Descrição da Atividade de nº 3
       - Coloque todas as suas imagens dentro de uma pasta images.  
       - Utilize pelo menos 5 imagens no seu projeto.  
     e) Vídeo do YouTube.  
-      - Utilize a ferramenta de importação do próprio YouTube.
+      - Utilize a ferramenta de importação do próprio YouTube.  
     f) Link para outros sites da internet.     
   4) Faça o Deploy do seu projeto.  
 
