@@ -13,12 +13,12 @@ Descrição da Atividade de nº 3
     a) Defina um tema para o seu site.  
     b) Respeitar a estrutura básica de uma página HTML.  
     c) Elementos de texto.  
-      -  Utilize corretamente os elementos de texto. Parágrafos, cabeçalhos de sessão, elementos para ênfase, etc…
-    d) Imagens.  
+      -  Utilize corretamente os elementos de texto. Parágrafos, cabeçalhos de sessão, elementos para ênfase, etc…  
+    d) Imagens.    
       - Coloque todas as suas imagens dentro de uma pasta images.  
-      - Utilize pelo menos 5 imagens no seu projeto.
+      - Utilize pelo menos 5 imagens no seu projeto.  
     e) Vídeo do YouTube.  
       - Utilize a ferramenta de importação do próprio YouTube.
-    f) Link para outros sites da internet. 
+    f) Link para outros sites da internet.   
   4) Faça o Deploy do seu projeto.  
 
